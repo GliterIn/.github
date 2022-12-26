@@ -1,5 +1,8 @@
 # Welcome to Gliter
 
+<p align="center">
+<img src='https://github.com/GliterIn/.github/blob/main/profile/GliterLogo.png' width='300'>
+</p>
 Are you tired of scrolling through endless feeds on social media platforms? Looking for a way to connect with like-minded individuals and share your thoughts and ideas in a concise and meaningful way? Gliter is the perfect solution for you!
 
 With Gliter, you can share short-form updates, photos, and links with a community of users who share your interests. Whether you're looking to promote your business, keep in touch with friends and family, or simply express yourself, gliter has something for everyone.
